@@ -4,7 +4,7 @@ A real-time meeting copilot that listens to your mic, transcribes speech, and co
 
 ## Live Demo
 
-> **[your-app.vercel.app](https://your-app.vercel.app)** — paste your Groq API key in Settings to use it.
+> **https://meeting-copilot-7vm9w9bfz-kanaads-projects.vercel.app** 
 
 ---
 
