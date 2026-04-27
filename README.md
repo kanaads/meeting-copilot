@@ -4,7 +4,7 @@ A real-time meeting copilot that listens to your mic, transcribes speech, and co
 
 ## Live Demo
 
-> **meeting-copilot-7vm9w9bfz-kanaads-projects.vercel.app** 
+> **[meeting-copilot-live](https://meeting-copilot-7vm9w9bfz-kanaads-projects.vercel.app/)** 
 
 ---
 
